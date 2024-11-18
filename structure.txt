@@ -1,4 +1,4 @@
-lotofacil_web/
+lotto_web/
 ├── app.py        # Código do servidor Flask
 ├── templates/
 │   └── index.html # Interface HTML
