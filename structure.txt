@@ -1,0 +1,6 @@
+lotofacil_web/
+├── app.py        # Código do servidor Flask
+├── templates/
+│   └── index.html # Interface HTML
+└── static/
+    └── style.css  # Arquivo CSS (opcional, para customizar a aparência)
